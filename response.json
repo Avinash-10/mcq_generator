@@ -1,0 +1,66 @@
+{
+    "1": {
+        "no" : "1",
+        "mcq" : "Multiple Choice Questions",
+        "options" : {
+            "a" : "chose from here",
+            "b" : "chose from here",
+            "c" : "chose from here",
+            "d" : "chose from here"
+        },
+
+        "correct" : "correct answer"
+    },
+
+    "2": {
+        "no" : "2",
+        "mcq" : "Multiple Choice Questions",
+        "options" : {
+            "a" : "chose from here",
+            "b" : "chose from here",
+            "c" : "chose from here",
+            "d" : "chose from here"
+        },
+
+        "correct" : "correct answer"
+    },
+
+    "3": {
+        "no" : "3",
+        "mcq" : "Multiple Choice Questions",
+        "options" : {
+            "a" : "chose from here",
+            "b" : "chose from here",
+            "c" : "chose from here",
+            "d" : "chose from here"
+        },
+
+        "correct" : "correct answer"
+    },
+
+    "4": {
+        "no" : "4",
+        "mcq" : "Multiple Choice Questions",
+        "options" : {
+            "a" : "chose from here",
+            "b" : "chose from here",
+            "c" : "chose from here",
+            "d" : "chose from here"
+        },
+
+        "correct" : "correct answer"
+    },
+
+    "5": {
+        "no" : "5",
+        "mcq" : "Multiple Choice Questions",
+        "options" : {
+            "a" : "chose from here",
+            "b" : "chose from here",
+            "c" : "chose from here",
+            "d" : "chose from here"
+        },
+
+        "correct" : "correct answer"
+    }
+}
